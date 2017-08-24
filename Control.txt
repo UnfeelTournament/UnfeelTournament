@@ -1,0 +1,11 @@
+Player 1 
+move left/right - a/d
+jump - space
+attack - f
+pick up - e
+
+Player 2
+move left/right - left/right arrow
+jump - up arrow
+attack = leftClick
+pick up = RightClick
